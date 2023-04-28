@@ -5,13 +5,23 @@ div{
 
 #uno{
     background-color: #e69ef2;
+    position: static;
 }
 #dos{
     background-color: #62d0ff;
+    position: relative top 50px left 100px;
 }
 #tres{
     background-color: #ced5db;
+    position: fixed;
 }
 #cuatro{
     background-color: #85e38d;
+    position: relative;
+}
+#cinco{
+    background-color: #d4c200;
+    width: 25%;
+    height: 25%;
+    position: absolute top 30px left 15px;
 }
