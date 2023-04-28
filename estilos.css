@@ -9,7 +9,7 @@
     border-top-left-radius: 30px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    border-bottom: 50px solid  rgb(201, 141, 63);
+    border-bottom: 5px solid  rgb(201, 141, 63);
 }
 
 #salchicha{
@@ -25,6 +25,6 @@
     border-bottom-left-radius: 30px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    border-top: 50px solid  rgb(201, 141, 63);
+    border-top: 5px solid  rgb(201, 141, 63);
 }
  
