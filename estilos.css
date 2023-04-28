@@ -5,6 +5,7 @@
 
 #navbar{
     background-color: #118AB2;
+
 }
 #contenido{
     width: 70%;
@@ -15,4 +16,8 @@
     width: 30%;
     float: left;
     background-color: #EF476F;
+    height: 20%;
+}
+a {
+    margin-left: 50px;
 }
