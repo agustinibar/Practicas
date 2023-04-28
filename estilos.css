@@ -5,8 +5,9 @@
 #panArriba{
     width: 70%;
     background-color: burlywood;
-    border-top-right-radius: top 10px;
-    border-top-left-radius: top 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom: 50px;
     border-bottom-color: rgb(201, 141, 63);
 }
 #salchicha{
@@ -20,5 +21,6 @@
     background-color: burlywood;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
-    border-top-color: 8px,  rgb(201, 141, 63);
+    border-top: 50px;
+    border-top-color: rgb(201, 141, 63);
 }
