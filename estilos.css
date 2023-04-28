@@ -3,28 +3,28 @@
 }
 
 #panArriba{
-    width: 70%;
+    width: 65%;
     background-color: burlywood;
     border-top-right-radius: 30px;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    border-bottom: 50px;
-    border-bottom-color: rgb(201, 141, 63);
+    border-bottom: 50px solid  rgb(201, 141, 63);
 }
+
 #salchicha{
     width: 60%;
     background-color: brown;
     border-radius: 10px;
 }
+
 #panAbajo{
-    width: 70%;
-   
+    width: 65%;
     background-color: burlywood;
     border-bottom-right-radius: 30px;
     border-bottom-left-radius: 30px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-top: 50px;
-    border-top-color: rgb(201, 141, 63);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top: 50px solid  rgb(201, 141, 63);
 }
+ 
