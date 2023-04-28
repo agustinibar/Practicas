@@ -16,6 +16,7 @@ div{
 #tres{
     background-color: #ced5db;
     position: fixed;
+    z-index: 6;
 }
 #cuatro{
     background-color: #85e38d;
