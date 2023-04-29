@@ -1,30 +1,16 @@
-.panchito{
+body { 
+    box-sizing: border-box;
+}
+#container {
+    width: 80%;
     margin: 0 auto;
 }
-
-#panArriba{
-    width: 65%;
-    background-color: burlywood;
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-    border-bottom: 5px solid  rgb(201, 141, 63);
+img {
+    width: 30%;
+    margin: 1.4%;
 }
-
-#salchicha{
-    width: 60%;
-    background-color: brown;
-    border-radius: 10px;
+h1 {
+    margin-left: 1.4%;
+    font-size: 40px;
+    font-family: 'Foldit', cursive;
 }
-
-#panAbajo{
-    width: 65%;
-    background-color: burlywood;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-top: 5px solid  rgb(201, 141, 63);
-}
- 
