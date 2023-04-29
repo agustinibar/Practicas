@@ -1,9 +1,3 @@
-.gris{
-    background-color: grey;
-}
-.verde{
-    background-color: green;
-}
-.naranja{
-    background-color: orange;
+body{
+    box-sizing: border-box;
 }
