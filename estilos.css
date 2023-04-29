@@ -13,4 +13,7 @@ h1 {
     margin-left: 1.4%;
     font-size: 40px;
     font-family: 'Foldit', cursive;
+    border-bottom: 2px red;
+    width: 50%;
+    text-transform: uppercase;
 }
