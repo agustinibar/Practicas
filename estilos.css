@@ -9,12 +9,12 @@ img {
     width: 30%;
     margin: 1.4%;
 }
-h1 {
+#titulo {
     margin-left: 1.4%;
     font-size: 40px;
     font-family: 'Foldit', cursive;
-    border-bottom: 2px red;
-    width: 50%;
+    border-bottom: 2px solid red;
+    width: 60%;
     text-transform: uppercase;
     position: relative;
     top: 20px;
