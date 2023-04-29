@@ -1,6 +1,27 @@
 body{
     box-sizing: border-box;
 }
-.container{
-    float: left;
-}
+@media (max-width: 767px) {
+    /* Oculta todos los elementos del menú, excepto el botón Hamburguesa */
+    .navbar-collapse {
+      display: none;
+    }
+    /* Ajusta el ancho del botón Hamburguesa */
+    .navbar-toggler {
+      width: 100%;
+    }
+    /* Muestra el menú desplegable al hacer clic en el botón Hamburguesa */
+    .navbar-toggler[aria-expanded="true"] ~ .navbar-collapse {
+      display: block;
+    }
+    /* Agrega un estilo para el menú desplegable */
+    .navbar-nav {
+      flex-direction: column;
+      text-align: center;
+    }
+    /* Ajusta el estilo de cada elemento del menú */
+    .navbar-nav li {
+      margin-top: 10px;
+    }
+  }
+  
