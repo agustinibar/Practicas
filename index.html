@@ -10,20 +10,27 @@
     </head>
     <body>
         <div class="container">
-            <div class="row">
-                <div class="col-sm-6 gris"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci vel minus nesciunt repudiandae ipsum voluptates hic molestias atque quidem cum neque quo maiores, amet nostrum quia. Ipsum id tempore expedita!</div>
-                <div class="col-sm-6">
-                    <div class="row">
-                        <div class="col-sm-4 verde">4</div>
-                        <div class="col-sm-4 verde">4</div>
-                        <div class="col-sm-4 verde">4</div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-6 naranja">6</div>
-                        <div class="col-sm-6 naranja">6</div>
-                    </div>
+            <form>
+                <div class="mb-3">
+                    <label for="nombre" class="form-label">Nombre.</label>
+                    <input type="text" class="form-control" id="nombre" aria-describedby="emailHelp" placeholder="Escriba su nombre y apellido aqui.">
+                    <div id="emailHelp" class="form-text">Coloque nombre y apellido completo, por favor.</div>
                 </div>
-            </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Direccion e-mail:</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">Nosotros nunca compartiremos tu informacion con nadie.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Acepto las bases y condiciones</label>
+                </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
         </div>
     </body>
 </html>
