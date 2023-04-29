@@ -24,7 +24,7 @@ body{
       margin-top: 10px;
     }
   }
-.flexcontainer{
+.flex-container{
     display: flex;
     justify-content: center;
 }
