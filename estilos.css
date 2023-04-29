@@ -1,4 +1,9 @@
+.gris{
+    background-color: grey;
+}
 .verde{
-    background-color: lime;
-    border: 1px solid orange;
+    background-color: green;
+}
+.naranja{
+    background-color: orange;
 }
