@@ -24,7 +24,7 @@ body{
       margin-top: 10px;
     }
   }
-.card{
+.flexcontainer{
     display: flex;
     justify-content: center;
 }
