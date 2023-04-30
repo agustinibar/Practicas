@@ -10,4 +10,13 @@ body{
 .flex-container{
     display: flex;
     justify-content: center;
+    margin: 50px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.col-sm-4{
+    width: 250px;
+    height: 250px;
 }
