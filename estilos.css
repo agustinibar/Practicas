@@ -6,6 +6,7 @@ body{
 }
 .nav-color{
     background-color: gold;
+    position: fixed;
 }
 .flex-container{
     display: flex;
@@ -29,7 +30,7 @@ body{
     padding: 100px;
     
 }
-.centrar{
+h2{
     display: center;
     justify-content: center;
 }
