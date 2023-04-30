@@ -43,4 +43,7 @@ body{
     padding: 100px;
     color: gold;
 }
+.my-container {
+    margin: 0;
+  }
 
