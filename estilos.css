@@ -13,11 +13,11 @@ body{
     margin: 50px;
 }
 .container{
+    margin: 25px;
+    border: 2px solid gold;
     display: flex;
     justify-content: space-between;
-    border-color: 5px solid gold;
-    background-color: black;
-    box-sizing: content-box;
+    background-color: black;;
     width: 0 auto;
 
 }
