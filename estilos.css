@@ -33,4 +33,9 @@ body{
     display: flex;
     justify-content: center;
 }
-
+.container2{
+    margin: 0 auto;
+    border: 2px solid gold;
+    background-color: black;
+    color: gold;
+}
