@@ -15,8 +15,11 @@ body{
 .container{
     display: flex;
     justify-content: space-between;
-    border-color: 2px solid gold;
+    border-color: 5px solid gold;
     background-color: black;
+    box-sizing: content-box;
+    width: 0 auto;
+
 }
 .galeryportfolio{
     width: 250px;
