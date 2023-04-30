@@ -19,5 +19,9 @@ body{
     justify-content: space-between;
     background-color: black;
     max-width: max-content;
-
+    padding: 12px;
+}
+#center{
+    margin: 0 auto;
+    color: gold
 }
