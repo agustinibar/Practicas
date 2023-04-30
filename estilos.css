@@ -24,7 +24,6 @@ body{
       margin-top: 10px;
     }
   }
-.flex-container{
-    display: flex;
-    justify-content: center;
+.containerfluid{
+    background-color: rgb(255, 219, 101);
 }
