@@ -34,12 +34,13 @@ body{
     justify-content: center;
 }
 .contacto{
+    margin: 0;
     border: 2px solid gold;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     background-color: black;
     max-width: max-content;
-    color: gold;
     padding: 100px;
+    color: gold;
 }
 
