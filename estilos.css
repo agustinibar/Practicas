@@ -33,7 +33,6 @@ body{
 }
 .container2{
     margin: 0 auto;
-    height: 50px;
     background-color: black;
     color: gold;
     display: flex;
