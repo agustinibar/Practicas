@@ -24,3 +24,6 @@ body{
 p{
     color: gold;
 }
+img{
+    border-radius: 50%;
+}
