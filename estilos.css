@@ -35,4 +35,6 @@ body{
     margin: 0 auto;
     background-color: black;
     color: gold;
+    display: flex;
+    justify-content: center;
 }
