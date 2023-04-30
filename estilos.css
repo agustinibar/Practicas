@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: space-around;
 }
-.col-sm-4{
+.galeryportfolio{
     width: 250px;
     height: 250px;
 }
