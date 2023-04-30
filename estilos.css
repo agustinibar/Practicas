@@ -27,6 +27,8 @@ body{
     background-color: gold;
     border: 2px solid black;
     padding: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 
