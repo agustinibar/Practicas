@@ -33,5 +33,13 @@ body{
     display: flex;
     justify-content: center;
 }
-
+.contacto{
+    border: 2px solid gold;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    max-width: max-content;
+    color: gold;
+    padding: 400px 100px;
+}
 
