@@ -22,5 +22,8 @@ body{
     padding: 100px;
     color: gold;
 }
+.centrar{
+    margin: 0 auto;
+}
 
 
