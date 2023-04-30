@@ -24,6 +24,9 @@ body{
 }
 .presentacion{
     margin: 0 auto;
+    background-color: gold;
+    border: 2px solid black;
+    padding: 100px;
 }
 
 
