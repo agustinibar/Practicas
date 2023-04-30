@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
 }
-.navbar-light{
+.navbar-expand-sm{
     background-color: gold;
 }
