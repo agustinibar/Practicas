@@ -6,8 +6,6 @@ body{
 }
 .nav-color{
     background-color: gold;
-    position: absolute;
-    z-index: 5;
 }
 .flex-container{
     display: flex;
