@@ -14,7 +14,6 @@ body{
 }
 .container{
     margin: 0;
-    border: 2px solid gold;
     display: flex;
     justify-content: space-between;
     background-color: black;
@@ -25,7 +24,6 @@ body{
 .presentacion{
     margin: 0 auto;
     background-color: gold;
-    border: 2px solid black;
     padding: 100px;
     
 }
@@ -35,7 +33,6 @@ body{
 }
 .container2{
     margin: 0 auto;
-    border: 2px solid gold;
     background-color: black;
     color: gold;
 }
