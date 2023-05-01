@@ -50,10 +50,8 @@ body{
 }
 .colores-dorados{
     background-color: gold;
-    width: max-content;
 }
 .colores-negros{
     background-color: black;
     color: gold;
-    width: max-content;
 }
