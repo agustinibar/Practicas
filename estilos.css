@@ -37,6 +37,6 @@ body{
     color: gold;
     padding: 100px;
 }
-.card{
-    transform: scale(0.75);
+.personalizada{
+    width: 50%;
 }
