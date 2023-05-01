@@ -48,6 +48,10 @@ body{
 .d-flex{
     margin: 20px;
 }
-.colores{
+.colores-dorados{
     background-color: gold;
+}
+.colores-negros{
+    background-color: black;
+    color: gold;
 }
