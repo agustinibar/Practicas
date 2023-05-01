@@ -37,7 +37,6 @@ body{
     color: gold;
     padding: 100px;
 }
-
-.card-sm{
-    height: 50%;
+.card{
+    transform: scale(0.75);
 }
