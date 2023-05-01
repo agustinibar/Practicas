@@ -48,3 +48,12 @@ body{
 .d-flex{
     margin: 20px;
 }
+.navbar-nav {
+    padding-left: 0;
+  }
+  
+  .navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+  }
+  
