@@ -44,3 +44,6 @@ body{
 .achicar{
     transform: scale(0.75);
 }
+.redondear{
+    border-radius: 50%;   
+}
