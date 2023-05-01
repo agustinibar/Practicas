@@ -40,3 +40,7 @@ body{
 .personalizada{
     width: 50%;
 }
+
+.achicar{
+    transform: scale(0.75);
+}
