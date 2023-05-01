@@ -38,3 +38,7 @@ body{
     color: gold;
     padding: 100px;
 }
+
+.card-img-top{
+    height: 50%;
+}
