@@ -50,6 +50,9 @@ body{
 }
 .d-flex{
     margin: 20px;
+    padding: 20px;
+    padding-top: 40px;
+    margin-top: 40px;
 }
 .colores-dorados{
     background-color: gold;
@@ -92,7 +95,4 @@ body{
 .container-fluid{
     display: flex;
     justify-content: flex-start;
-}
-.row{
-    margin-right: 20px;
 }
