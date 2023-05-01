@@ -6,7 +6,6 @@ body{
 }
 .fixed-top{
     background-color: gold;
-    border: 2px solid black;
 }
 .flex-container{
    margin: 0 auto;
