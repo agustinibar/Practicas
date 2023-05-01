@@ -59,7 +59,7 @@ body{
     color: gold;
 }
 .buttons {
-    width: 0 auto;
+    min-width: 500px;
     display: flex;
     justify-content: center;
 }
