@@ -4,7 +4,7 @@ body{
 .be-ligth{
     background-color: gold;
 }
-.container-fluid{
+.fixed-top{
     background-color: gold;
 }
 .flex-container{
@@ -44,4 +44,7 @@ body{
 .achicar{
     transform: scale(0.75);
     border-radius: 50%;
+}
+.d-flex{
+    margin: 20px;
 }
