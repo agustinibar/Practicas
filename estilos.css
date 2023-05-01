@@ -90,5 +90,6 @@ body{
     padding: 100px;
   }
 .container-fluid{
+    display: flex;
     justify-content: flex-start;
 }
