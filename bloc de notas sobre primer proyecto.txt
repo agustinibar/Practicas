@@ -1,0 +1,64 @@
+ Como primer proyecto de portfolio, codearás una Single-page application 
+(en español, una web de una sola página). Este tipo de sitios se puso de 
+moda en los últimos años por su fácil navegabilidad.
+
+ Una barra de navegación.
+Un encabezado con tu nombre y tu foto.
+Una sección de "Portfolio".
+Una sección "Acerca de mí".
+Una sección de "Contacto".
+Un footer (en español, un pie de página) con tus datos personales y el 
+Copyright.
+
+ Importante: Este sitio, tiene que ser responsive, es decir, debe ajustar 
+su contenido al tamaño de la pantalla.
+
+ Deberá tener tu nombre y los de las diferentes secciones: Portfolio, Acerca
+de mí y Contacto.
+
+ El *Encabezado de tu sitio deberá llevar tu nombre, una foto o ilustración 
+que te represente y el rol con el que quieras presentarte.
+
+ Para que la imagen se adapte al tamaño del dispositivo, ya sea cuando se 
+achique el visor (en inglés viewport) o se acceda desde un dispositivo 
+móvil, deberás asignarle un valor relativo a su tamaño.
+
+*Portfolio
+ Esta sección será la vidriera de tus proyectos de desarrollo web. Por el 
+momento, usarás imágenes provisorias. Una vez que tengas tus 3 páginas 
+terminadas, podrás actualizarlo.
+
+- Deberá tener un div class container con 1 row y 3 col.
+- Deberás separar los bordes de la sección de su contenido usando padding.
+- Las imágenes deberán estar estilizadas. Para eso, editá el CSS y generá 
+el estilo esperado (por ejemplo, los bordes redondeados).
+
+*Acerca De Mí
+ En esta sección deberás contar un poco acerca de tu perfil profesional.
+Esta sección es muy sencilla. Se trata de un <h2>, seguido por un <hr> y, 
+debajo, un <p>.
+
+*Contacto
+ En esta sección aplicarás todo lo aprendido acerca de los formularios. El 
+objetivo es que puedan contactarte de manera sencilla.
+
+Hacé que tu formulario te envíe un correo con la información ingresada por 
+el usuario. Esto lo aprendimos usando Formspree.
+
+*Footer Y Copyright
+👩‍🏫👨‍🏫 En esta sección pondrás tus datos de contacto y las redes sociales que
+más usás. También deberás incluir la leyenda "Derechos de autor" (en inglés
+Copyright) y la fecha en la que creaste este sitio.
+
+
+
+ <div class="card card-sm personalizada">
+                <img class="card-img-top" src="Yop.jpeg" alt="Card image cap">
+                <div class="card-body">
+                  <h4 class="card-title">Agustin Ibar</h4>
+                  <p class="card-text">
+                   Desarrollo Web Gastronómico
+                  </p>
+                  <a href="https://www.linkedin.com/in/agustin-ibar-59b123215/" class="btn btn-primary">LinkedIn</a>
+                </div>
+
