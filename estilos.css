@@ -83,3 +83,9 @@ body{
   .buttons a:hover {
     transform: scale(1.2);
   }
+  .container3{
+    margin: 0 auto;
+    background-color: gold;
+    color: black;
+    padding: 100px;
+  }
