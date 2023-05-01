@@ -92,7 +92,3 @@ body{
     color: black;
     padding: 100px;
   }
-.container-fluid{
-    display: flex;
-    justify-content: flex-start;
-}
