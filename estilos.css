@@ -10,7 +10,7 @@ body{
 .flex-container{
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin: 0 auto;
 }
 .container{
     margin: 0;
